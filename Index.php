@@ -1,7 +1,7 @@
 <?php
 
 // todo: "och dina uppgifter är sparade"
-	
+	//
 	error_reporting(-1);
 	session_start();
 	if (isset($_POST['logOutButton'])) {
